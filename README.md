@@ -128,16 +128,19 @@ Question → Retrieve Chunks → LLM → JSON Answer
 ## File Structure
 
 ```
-.
-├── pdfs/               # Source PDF documents
-├── index/              # FAISS index and metadata
-├── ingest.py           # Document ingestion
-├── answer.py           # Question answering
-├── evaluate.py         # Evaluation harness
-├── config.py           # Configuration
-├── questions.json      # Sample questions
-├── answers.json        # Output answers
-└── requirements.txt    # Python dependencies
+├── pdfs/                     # Source PDF documents
+├── index/                    # FAISS index and metadata
+├── ingest.py                 # Document ingestion script
+├── answer.py                 # Question answering script
+├── evaluate.py               # Evaluation harness
+├── config.py                 # Configuration settings
+├── DESIGN_NOTE.md            # Architectural design notes
+├── questions.json            # Input questions dataset
+├── answers.json              # Generated answers output
+├── eval_questions.json       # Evaluation question set
+├── eval_results.json         # Evaluation results output
+├── test_ingest_retrieval.py  # Ingestion & retrieval test script
+└── requirements.txt          # Python dependencies
 ```
 
 ## Known Issues
