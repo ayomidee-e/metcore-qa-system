@@ -1,16 +1,102 @@
 [
-  {"id": "q1", "question": "What is the penalty for data breach?"},
-  {"id": "q2", "question": "Definition of personal data"},
-  {"id": "q3", "question": "When was the NDPA enacted?"},
-  {"id": "q4", "question": "Pursuant to Section 37 of the 1999 Constitution and Section 1 of the NDP Act 2023, what is the primary purpose of the Act's implementation?"},
-  {"id": "q5", "question": "What are the four specific categories of data subjects entitled to enjoy data subject rights under Article 1(4)?"},
-  {"id": "q6", "question": "Under Article 2(b), what are examples of material contexts of data processing that fall under the Exclusive Legislative List of the 1999 Constitution?"},
-  {"id": "q28", "question": "Which specific international cryptocurrency standard is mandated for all cross-border financial settlements under Schedule 11?"},
-  {"id": "q29", "question": "Which document has stricter data breach notification timelines - NDPA 2023 or NDPR 2019? If they differ, what are the specific timeframes in each?"},
-  {"id": "q30", "question": "How many data protection officers must a company with 500 employees appoint?"},
-  {"id": "q31", "question": "How does the definition of 'data controller' differ between NDPA 2023 and NDPR 2019?"},
-  {"id": "q32", "question": "Compare the breach notification timelines under NDPA 2023 vs NDPR 2019."},
-  {"id": "q33", "question": "What is the purpose of the NDPR Implementation Framework 2020?"},
-  {"id": "q34", "question": "What are the penalties for data breach under NDPR 2019?"},
-  {"id": "q35", "question": "What is the definition of 'personal data' under the NDPR 2019?"}
+  {
+    "id": "q1",
+    "question": "What is the penalty for data breach under NDPR 2019?"
+  },
+  {
+    "id": "q2",
+    "question": "What is the definition of personal data according to NDPA 2023?"
+  },
+  {
+    "id": "q3",
+    "question": "When was the NDPA 2023 enacted?"
+  },
+  {
+    "id": "q4",
+    "question": "What is the primary purpose of the NDP Act 2023?"
+  },
+  {
+    "id": "q5",
+    "question": "What are the four specific categories of data subjects entitled to data subject rights under Article 1(4) of GAID 2025?"
+  },
+  {
+    "id": "q6",
+    "question": "Under Article 2(b) of GAID 2025, what are examples of material contexts of data processing that fall under the Exclusive Legislative List of the 1999 Constitution?"
+  },
+  {
+    "id": "q7",
+    "question": "What security measures are mentioned in GAID 2025 for protecting personal data?"
+  },
+  {
+    "id": "q8",
+    "question": "What is the role of the National Commissioner under NDPA 2023?"
+  },
+  {
+    "id": "q9",
+    "question": "What does NDPR 2019 say about data breach notification timelines?"
+  },
+  {
+    "id": "q10",
+    "question": "What is the definition of a data controller under NDPA 2023?"
+  },
+  {
+    "id": "q11",
+    "question": "Compare the breach notification timelines between NDPA 2023 and NDPR 2019."
+  },
+  {
+    "id": "q12",
+    "question": "How does the definition of 'data controller' differ between NDPA 2023 and NDPR 2019?"
+  },
+  {
+    "id": "q13",
+    "question": "Compare the penalties for data breach under NDPA 2023 and NDPR 2019."
+  },
+  {
+    "id": "q14",
+    "question": "What is the purpose of the NDPR Implementation Framework 2020?"
+  },
+  {
+    "id": "q15",
+    "question": "What is the relationship between NDPA 2023 and GAID 2025?"
+  },
+  {
+    "id": "q16",
+    "question": "What rights do data subjects have under the NDPR 2019?"
+  },
+  {
+    "id": "q17",
+    "question": "What is the definition of a data processor under NDPA 2023?"
+  },
+  {
+    "id": "q18",
+    "question": "What are the compliance requirements for data controllers under the NDPR Implementation Framework 2020?"
+  },
+  {
+    "id": "q19",
+    "question": "What does GAID 2025 say about data protection impact assessments?"
+  },
+  {
+    "id": "q20",
+    "question": "What are the penalties for non-compliance under the ECOWAS Data Protection Act?"
+  },
+  {
+    "id": "q21",
+    "question": "How many data protection officers should a company with 500 employees appoint under NDPA 2023?"
+  },
+  {
+    "id": "q22",
+    "question": "What is the GDPR equivalent regulation in Nigeria?"
+  },
+  {
+    "id": "q23",
+    "question": "What is the maximum fine for a data breach under Nigerian banking regulations?"
+  },
+  {
+    "id": "q24",
+    "question": "When will the NDPA 2023 be reviewed and amended?"
+  },
+  {
+    "id": "q25",
+    "question": "What international cryptocurrency standard does Schedule 11 of GAID 2025 mandate for cross-border financial settlements?"
+  }
 ]

@@ -16,4 +16,4 @@ EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"   # 384 dims, fast, free
 TOP_K = 10  # number of chunks to retrieve per query, this is to give the generator more chances to find the answer
 
 # Generation
-LLM_MODEL = "llama3.2:3b" # Large language model for text generation
+LLM_MODEL = "qwen2.5:7b" # Large language model for text generation

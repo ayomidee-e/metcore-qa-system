@@ -1,133 +1,228 @@
 [
   {
     "id": "q1",
-    "answer": "The penalty for data breach is an amount up to N10,000,000 or 2% of its annual gross revenue in the preceding financial year, depending on the importance of the data controller or data processor.",
-    "abstained": false,
-    "citations": [
-      {
-        "doc_id": "ndpa-2023",
-        "page": 32,
-        "quote": "ordering the data controller or data processor to pay a penalty or remedial fee."
-      }
-    ]
-  },
-  {
-    "id": "q2",
-    "answer": "Personal data means any information relating to an identified or identifiable natural person (\u2018Data Subject\u2019); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person; It can be anything from a name, address, a photo, an email address, bank details, posts on social networking websites, medical information, and other unique identifier such as but not limited to MAC address, IP address, IMEI number, IMSI number, SIM, Personal Identifiable Information (PII) and others;",
-    "abstained": false,
-    "citations": [
-      {
-        "doc_id": "ndpa-2023",
-        "page": 22,
-        "quote": "categories of personal data concerned, (iii) the recipients or categories of recipient to whom the personal data have been or will be disclosed, particularly recipients in third countries or international organisations, (iv) where possible, the period for which the personal data will be stored, or, if not possible, the criteria used to determine that period, (v) the existence of the right to request from the data controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject or to object to such processing,"
-      }
-    ]
-  },
-  {
-    "id": "q3",
     "answer": "abstained",
     "abstained": true,
     "citations": []
   },
   {
-    "id": "q4",
+    "id": "q2",
     "answer": "I don't know",
     "abstained": true,
     "citations": []
   },
   {
+    "id": "q3",
+    "answer": "The NDPA 2023 was enacted on June 12, 2023.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpa-2023",
+        "page": 37,
+        "quote": "12. [12th Day of June, 2023] Commence-ment."
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "answer": "The primary purpose of the NDP Act 2023 is to safeguard the fundamental rights and freedoms, and the interests of data subjects, as guaranteed under the Constitution of the Federal Republic of Nigeria, 1999; provide for the regulation of processing of personal data; promote data processing practices that safeguard the security of personal data and privacy of data subjects; ensure that personal data is processed in a fair, lawful and accountable manner; protect data subjects\u2019 rights, and provide means of recourse and remedies, in the event of the breach of the data subject\u2019s rights; ensure that data controllers and data processors fulfil their obligations to data subjects; establish an impartial, independent, and effective regulatory Commission to superintend over data protection and privacy issues, and supervise data controllers and data processors; and strengthen the legal foundations of the national digital economy and guarantee the participation of Nigeria in the regional and global economies through the beneficial and trusted use of personal data.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpa-2023",
+        "page": 7,
+        "quote": "The objectives of this Act are to \u2014 (a) safeguard the fundamental rights and freedoms, and the interests of data subjects, as guaranteed under the Constitution of the Federal Republic of Nigeria, 1999 ; (b) provide for the regulation of processing of personal data ; (c) promote data processing practices that safeguard the security of personal data and privacy of data subjects ; (d) ensure that personal data is processed in a fair, lawful and accountable manner ; (e) protect data subjects\u2019 rights, and provide means of recourse and remedies, in the event of the breach of the data subject\u2019s rights ; (f ) ensure that data controllers and data processors fulfil their obligations to data subjects ; (g) establish an impartial, independent, and effective regulatory Commission to superintend over data protection and privacy issues, and supervise data controllers and data processors ; and (h) strengthen the legal foundations of the national digital economy and guarantee the participation of Nigeria in the regional and global economies through the beneficial and trusted use of personal data."
+      }
+    ]
+  },
+  {
     "id": "q5",
-    "answer": "Data subjects entitled to enjoy data subject rights under Article 1(4) are those who are (i) children, (ii) persons with disabilities, (iii) elderly persons, and (iv) persons with HIV/AIDS.",
+    "answer": "The four specific categories of data subjects entitled to data subject rights under Article 1(4) of GAID 2025 are: (a) A data subject who is within the territory of Nigeria \u2013 regardless of nationality and migration status; (b) A data subject whose personal data has been transferred to Nigeria; (c) A data subject whose personal data is in transit through Nigeria \u2013 without more; (d) A data subject whose personal data is processed by a data controller or data processor domiciled in Nigeria.",
     "abstained": false,
     "citations": [
       {
         "doc_id": "gaid-2025",
-        "page": 94,
-        "quote": "Additional Applicable Laws List any other relevant data protection laws or regulations that apply to the transfer, such as the ECOWAS Supplementary Act, African Union Convention, or the GDPR (if applicable)."
+        "page": 6,
+        "quote": "The categories of data subjects to whom Sub-Article 3 relates are: (a) A data subject who is within the territory of Nigeria \u2013 regardless of nationality and migration status; (b) A data subject whose personal data has been transferred to Nigeria; (c) A data subject whose personal data is in transit through Nigeria \u2013 without more; (d) A data subject whose personal data is processed by a data controller or data processor domiciled in Nigeria."
       }
     ]
   },
   {
     "id": "q6",
-    "answer": "Examples of material contexts of data processing that fall under the Exclusive Legislative List of the 1999 Constitution include: Information and data on population for the purpose of facilitating economic and development planning, Immigration into and emigration from Nigeria, Implementation of treaties, Fingerprints identification and criminal records, Aviation, including airports, safety of aircraft and carriage of passengers and goods by air, Bankruptcy and insolvency, Banking, bills of exchange and promissory notes, Borrowing of moneys within or outside Nigeria for the purposes of the Federation or of any State, Census, including the establishment and maintenance of machinery for continuous and universal registration of births and deaths throughout Nigeria, Citizenship, naturalisation and aliens, Control of capital issues, Copyright, and Data sovereignty.",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q7",
+    "answer": "The security measures mentioned in GAID 2025 for protecting personal data include appropriate technical and organisational measures to address identified risks, determine security measures vis-\u00e0-vis the outcomes of Data Privacy Impact Assessment (DPIA), and carry out security risk assessments with reasonable consideration for the Volatility, Uncertainty, Complexity and Ambiguity (VUCA) of both internal and external environments. Additionally, data controllers and data processors must take reasonable measures to mitigate risks to the Volume, Value, Veracity, Velocity, and Variety of data.",
     "abstained": false,
     "citations": [
       {
         "doc_id": "gaid-2025",
-        "page": 8,
-        "quote": "i. In this circumstance, the Commission may seek mutual legal assistance from the relevant authorities in the country where such citizen is resident in order to safeguard his or her privacy right as may be recognised under International Law; and"
+        "page": 62,
+        "quote": "ii. Appropriate technical and organisational measures must be taken to address identified risks. iii. Data controllers and data processors of major importance must determine security measures vis-\u00e0-vis the outcomes of Data Privacy Impact Assessment (DPIA). iv. Security risk assessments must be carried out with reasonable consideration for the Volatility, Uncertainty, Complexity and Ambiguity (VUCA) of both internal and external environments. v. Data controllers and data processors must take reasonable measures to mitigate risks to the Volume, Value, Veracity, Velocity, and Variety of data."
       }
     ]
   },
   {
-    "id": "q28",
-    "answer": "Secure Sockets Layer/Transport Layer Security (SSL/TLS)",
+    "id": "q8",
+    "answer": "I don't know",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q9",
+    "answer": "NDPR 2019 requires data controllers to notify the Commission of a data breach within 72 hours if the breach is likely to result in a risk to the rights and freedoms of individuals, and to describe the nature of the personal data breach including the categories and approximate numbers of data subjects and personal data records concerned.",
     "abstained": false,
     "citations": [
       {
         "doc_id": "gaid-2025",
-        "page": 8,
-        "quote": "We will always hold your information securely. To prevent unauthorised access to your information, we have implemented strong controls and security safeguards at the technical and operational levels. Our website uses Secure Sockets Layer/Transport Layer Security (SSL/TLS) to ensure secure transmission of your Personal Data."
+        "page": 37,
+        "quote": "Article 33: Data Breach Notification\n(1) The NDP Act under Section 40(2) provides that \u201ca data controller shall, within 72 hours of becoming aware of a breach which is likely to result in a risk to the rights and freedoms of individuals, notify the Commission of the breach and, where feasible, describe the nature of the personal data breach including the categories and approximate numbers of data subjects and personal data records concerned.\u201d"
       }
     ]
   },
   {
-    "id": "q29",
-    "answer": "NDPR 2019 has stricter data breach notification timelines, requiring notification within 72 hours of becoming aware of a breach. NDPA 2023 does not have a specific timeline for data breach notification.",
+    "id": "q10",
+    "answer": "A data controller means an individual, private entity, public Commission, agency or any other body who, alone or jointly with others, determines the purposes and means of processing of personal data.",
     "abstained": false,
     "citations": [
       {
-        "doc_id": "ndpr-if-2020",
-        "page": 33,
+        "doc_id": "ndpa-2023",
+        "page": 32,
+        "quote": "\u201cdata controller\u201d means an individual, private entity, public Commission, agency or any other body who, alone or jointly with others, determines the purposes and means of processing of personal data ;"
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "answer": "The breach notification timelines for NDPA 2023 and NDPR 2019 are not directly comparable in the provided excerpts. NDPA 2023 requires notification within 72 hours, while NDPR 2019 does not specify a timeline for notification of data breaches.",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q12",
+    "answer": "I don't know",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q13",
+    "answer": "The penalties for data breach under NDPA 2023 are higher for data controllers or processors of major importance, with a maximum penalty of N10,000,000 or 2% of their annual gross revenue, compared to the standard maximum amount of N2,000,000 or 2% of their annual gross revenue for those not of major importance. NDPR 2019 is no longer applicable as per GAID 2025, which states that upon issuance, the NDPR will cease to be a legal instrument for regulating data privacy and protection.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpa-2023",
+        "page": 32,
+        "quote": "A penalty or remedial fee under subsection (2)(d) may be an amount up to the \u2014 (a) higher maximum amount of N10,000,000 or 2% of the annual gross revenue of the data controller or data processor, or (b) the standard maximum amount of N2,000,000 or 2% of the annual gross revenue of the data controller or data processor, whichever is higher."
+      },
+      {
+        "doc_id": "gaid-2025",
+        "page": 37,
         "quote": "Article 33: Data Breach Notification (1) The NDP Act under Section 40(2) provides that \u201ca data controller shall, within 72 hours of becoming aware of a breach which is likely to result in a risk to the rights and freedoms of individuals, notify the Commission of the breach and, where feasible, describe the nature of the personal data breach including the categories and approximate numbers of data subjects and personal data records concerned.\u201d"
       }
     ]
   },
   {
-    "id": "q30",
-    "answer": "abstained",
-    "abstained": true,
-    "citations": []
-  },
-  {
-    "id": "q31",
-    "answer": "I don't know",
-    "abstained": true,
-    "citations": []
-  },
-  {
-    "id": "q32",
-    "answer": "abstained",
-    "abstained": true,
-    "citations": []
-  },
-  {
-    "id": "q33",
-    "answer": "The purpose of the NDPR Implementation Framework 2020 is to promote voluntary compliance with the Nigeria Data Protection Regulation (NDPR) 2019 by providing a guide to assist data controllers and data administrators/processors understand the controls and measures they need to introduce into their operations to comply with the NDPR.",
+    "id": "q14",
+    "answer": "To assist data controllers and data administrators/processors understand the controls and measures they need to introduce into their operations in order to comply with the NDPR.",
     "abstained": false,
     "citations": [
       {
         "doc_id": "ndpr-if-2020",
-        "page": 1,
-        "quote": "NIGERIA DATA PROTECTION REGULATION 2019: IMPLEMENTATION FRAMEWORK NOVEMBER, 2020"
+        "page": 3,
+        "quote": "1.1 The NDPR is the pioneer, comprehensive Regulation on data protection in Nigeria. NITDA, through a stakeholder model has developed this NDPR Implementation Framework (the \u2018Framework\u2019) as a guide to assist data controllers and data administrators/processors understand the controls and measures they need to introduce into their operations in order to comply with the NDPR."
       }
     ]
   },
   {
-    "id": "q34",
-    "answer": "The penalties for data breach under NDPR 2019 include ordering the data controller or data processor to account for the profits realised from the violation or to pay a penalty or remedial fee, with a maximum amount of N10,000,000 or 2% of its annual gross revenue in the preceding financial year.",
+    "id": "q15",
+    "answer": "NDPA 2023 and GAID 2025 are interrelated, with GAID 2025 being issued pursuant to NDPA 2023. GAID 2025 provides guidance and implementation details for NDPA 2023, and in the event of a conflict, NDPA 2023 prevails.",
     "abstained": false,
     "citations": [
       {
-        "doc_id": "ndpr-2019",
-        "page": 49,
-        "quote": "ordering the data controller or data processor to account for the profits realised from the violation or to pay a penalty or remedial fee, with a maximum amount of N10,000,000 or 2% of its annual gross revenue in the preceding financial year."
+        "doc_id": "gaid-2025",
+        "page": 10,
+        "quote": "In the event of a conflict between the NDP Act and this GAID, the NDP Act shall prevail."
       }
     ]
   },
   {
-    "id": "q35",
+    "id": "q16",
+    "answer": "The data subjects have the following rights under the NDPR 2019: the name of the data controller or data processor, lawful basis of data processing, types of personal data to be collected, purpose of the processing, means of processing, access to personal data by authorised third parties, purpose of access by third parties, data subjects\u2019 rights, access to prompt internal remediation, and right to lodge a complaint with the Nigeria Data Protection Commission.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpr-if-2020",
+        "page": 53,
+        "quote": "The information to be provided by the data controller or data processor includes but is not limited to the following: a) The name of the data controller or data processor, b) Lawful basis of data processing, c) Types of personal data to be collected, d) Purpose of the processing, e) Means of processing, f) Access to personal data by authorised third parties, g) Purpose of access by third parties, h) Data subjects\u2019 rights, i) Access to prompt internal remediation, and j) Right to lodge a complaint with the Nigeria Data Protection Commission."
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q18",
     "answer": "I don't know",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q19",
+    "answer": "GAID 2025 does not explicitly mention data protection impact assessments. However, it references them in the context of data processing risks and measures.",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q20",
+    "answer": "The penalties for non-compliance under the ECOWAS Data Protection Act are not explicitly stated in the provided excerpts.",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q21",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q22",
+    "answer": "The GDPR equivalent regulation in Nigeria is the Nigeria Data Protection Regulation 2019 (NDPR). The NDPR, in the absence of specific provisions, draws on the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014 and the European Union General Data Protection Regulation (EU GDPR) and its judicial interpretations.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpr-if-2020",
+        "page": 31,
+        "quote": "Where the NDPR and this Framework do not provide for a data protection principle or process, the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014 and European Union General Data Protection Regulation (EU GDPR) and its judicial interpretations shall be of persuasive effect in Nigeria."
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "answer": "The maximum fine for a data breach under Nigerian banking regulations is up to N10,000,000 or 2% of its annual gross revenue in the preceding financial year, for data controllers or processors of major importance. For those not of major importance, the maximum fine is up to N2,000,000 or 2% of its annual gross revenue in the preceding financial year.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpa-2023",
+        "page": 32,
+        "quote": "A penalty or remedial fee under subsection (2)(d) may be an amount up to the \u2014 (a) higher maximum amount, in the case of a data controller or data processor of major importance ; or (b) standard maximum amount, in the case of a data controller or data processor not of major importance. (4) The \u201chigher maximum amount\u201d shall be the greater of \u2014 (a) N10,000,000, and (b) 2% of its annual gross revenue in the preceding financial year. (5) The \u201cstandard maximum amount\u201d shall be the greater of \u2014 (a) N2,000,000, and (b) 2% of its annual gross revenue in the preceding financial year."
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q25",
+    "answer": "abstained",
     "abstained": true,
     "citations": []
   }

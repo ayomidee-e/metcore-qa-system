@@ -83,7 +83,7 @@ def generate_answer(question, contexts, model_name=LLM_MODEL):
     system_prompt = """You are a precise assistant. Answer the user's question based ONLY on the provided text excerpts.
 
 CRITICAL RULES:
-1. The doc_id MUST be exactly one of: ndpa-2023, gaid-2025, ndpr-2019, ndpr-if-2020
+1. The doc_id MUST be exactly one of these: ndpa-2023, gaid-2025, ndpr-2019, ndpr-if-2020
 2. The quote MUST be copied VERBATIM from the source text
 3. Include the page number where the quote appears
 4. If the answer is not present, set "abstained" to true

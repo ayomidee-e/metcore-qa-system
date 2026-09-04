@@ -1,0 +1,152 @@
+[
+  {
+    "id": "q1",
+    "type": "single_document",
+    "question": "What is the penalty for data breach under NDPR 2019?"
+  },
+  {
+    "id": "q2",
+    "type": "single_document",
+    "question": "What is the definition of personal data according to NDPA 2023?"
+  },
+  {
+    "id": "q3",
+    "type": "single_document",
+    "question": "When was the NDPA 2023 enacted?"
+  },
+  {
+    "id": "q4",
+    "type": "single_document",
+    "question": "What is the purpose of the NDPR Implementation Framework 2020?"
+  },
+  {
+    "id": "q5",
+    "type": "single_document",
+    "question": "What are the four categories of data subjects entitled to data subject rights under Article 1(4) of GAID?"
+  },
+  {
+    "id": "q6",
+    "type": "single_document",
+    "question": "What is the maximum fine that can be imposed under NDPA 2023?"
+  },
+  {
+    "id": "q7",
+    "type": "single_document",
+    "question": "What security measure is mentioned in GAID 2025 for protecting data?"
+  },
+  {
+    "id": "q8",
+    "type": "single_document",
+    "question": "What is the role of the National Commissioner under NDPA 2023?"
+  },
+  {
+    "id": "q9",
+    "type": "single_document",
+    "question": "What does NDPR 2019 say about data breach notification timeline?"
+  },
+  {
+    "id": "q10",
+    "type": "single_document",
+    "question": "What is the definition of a data controller under the NDPA 2023?"
+  },
+  {
+    "id": "q11",
+    "type": "multi_document",
+    "question": "Compare the breach notification timelines under NDPR 2019 and NDPA 2023."
+  },
+  {
+    "id": "q12",
+    "type": "multi_document",
+    "question": "How does the definition of 'data controller' differ between NDPA 2023 and NDPR 2019?"
+  },
+  {
+    "id": "q13",
+    "type": "multi_document",
+    "question": "Compare the penalties for data breach under NDPA 2023 and NDPR 2019."
+  },
+  {
+    "id": "q14",
+    "type": "multi_document",
+    "question": "How do the documents differ in their approach to data subject rights?"
+  },
+  {
+    "id": "q15",
+    "type": "multi_document",
+    "question": "What is the relationship between NDPA 2023 and the GAID 2025?"
+  },
+  {
+    "id": "q16",
+    "type": "multi_document",
+    "question": "Compare the enforcement mechanisms between NDPR 2019 and NDPA 2023."
+  },
+  {
+    "id": "q17",
+    "type": "unanswerable",
+    "question": "What are the penalties for non-compliance under the ECOWAS Data Protection Act?"
+  },
+  {
+    "id": "q18",
+    "type": "unanswerable",
+    "question": "How many data protection officers should a company with 500 employees appoint?"
+  },
+  {
+    "id": "q19",
+    "type": "unanswerable",
+    "question": "What is the GDPR equivalent regulation in Nigeria?"
+  },
+  {
+    "id": "q20",
+    "type": "unanswerable",
+    "question": "What is the penalty for failing to register as a data processor?"
+  },
+  {
+    "id": "q21",
+    "type": "unanswerable",
+    "question": "How does the NDPA 2023 handle international data transfers to EU countries?"
+  },
+  {
+    "id": "q22",
+    "type": "unanswerable",
+    "question": "What is the maximum fine for a data breach under Nigerian banking regulations?"
+  },
+  {
+    "id": "q23",
+    "type": "unanswerable",
+    "question": "When will the NDPA 2023 be reviewed and amended?"
+  },
+  {
+    "id": "q24",
+    "type": "unanswerable",
+    "question": "What is the penalty for not reporting a data breach to the NDPC within 24 hours?"
+  },
+  {
+    "id": "q25",
+    "type": "unanswerable",
+    "question": "What international cryptocurrency standard does Schedule 11 of GAID mandate for cross-border settlements?"
+  },
+  {
+    "id": "q26",
+    "type": "single_document",
+    "question": "What does Article 2(b) of GAID 2025 say about material contexts of data processing?"
+  },
+  {
+    "id": "q27",
+    "type": "single_document",
+    "question": "What rights do data subjects have under the NDPR 2019?"
+  },
+  {
+    "id": "q28",
+    "type": "multi_document",
+    "question": "How do the documents define 'personal data' differently?"
+  },
+  {
+    "id": "q29",
+    "type": "multi_document",
+    "question": "What are the different compliance requirements for data controllers across the documents?"
+  },
+  {
+    "id": "q30",
+    "type": "unanswerable",
+    "question": "What is the fine for a data breach that affects over 100,000 Nigerians?"
+  }
+]
