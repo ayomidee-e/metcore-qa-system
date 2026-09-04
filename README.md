@@ -34,6 +34,41 @@ python answer.py --questions questions.json --out answers.json
 python evaluate.py
 ```
 
+## Assumptions & Design Decisions
+
+### Chunking Strategy
+- **Assumption**: 2000 character chunks with 200 character overlap provides enough context while keeping chunks manageable
+- **Why**: Documents are long (hundreds of pages). Smaller chunks would lose context; larger chunks would be slow and expensive
+
+### Model Selection
+- **Assumption**: qwen2.5:7b balances speed and quality for local deployment
+- **Why**: Must run at zero cost. 7B parameters works on consumer hardware while handling JSON output well
+
+### Retrieval (TOP_K=10)
+- **Assumption**: Retrieving 10 chunks gives the LLM enough context to find answers
+- **Why**: More chunks = more context but slower. 10 is a good balance based on testing
+
+### Citation Validation
+- **Assumption**: Citations must be verbatim to prevent hallucination
+- **Why**: The assessment explicitly states "invented quote is the single worst thing your system can produce"
+
+### Evaluation Questions
+- **Assumption**: 25 questions (13 single, 7 multi, 5 unanswerable) provides a good test mix
+- **Why**: Covers all required scenarios per the assessment guidelines
+
+### Abstention Behavior
+- **Assumption**: If no valid citations are found, system should abstain
+- **Why**: Better to say "I don't know" than make up an answer
+
+### Document Versions
+- **Assumption**: The four provided PDFs are the authoritative sources
+- **Why**: Assessment explicitly states "Ingest these four and only these"
+
+### Page Numbers
+- **Assumption**: Page numbers from PDF extraction match the official document
+- **Why**: Using page numbers from pdfplumber indexing (starting at 1)
+
+
 ## Architecture
 
 ### Overview
