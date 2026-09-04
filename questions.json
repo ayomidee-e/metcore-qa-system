@@ -1,0 +1,16 @@
+[
+  {"id": "q1", "question": "What is the penalty for data breach?"},
+  {"id": "q2", "question": "Definition of personal data"},
+  {"id": "q3", "question": "When was the NDPA enacted?"},
+  {"id": "q4", "question": "Pursuant to Section 37 of the 1999 Constitution and Section 1 of the NDP Act 2023, what is the primary purpose of the Act's implementation?"},
+  {"id": "q5", "question": "What are the four specific categories of data subjects entitled to enjoy data subject rights under Article 1(4)?"},
+  {"id": "q6", "question": "Under Article 2(b), what are examples of material contexts of data processing that fall under the Exclusive Legislative List of the 1999 Constitution?"},
+  {"id": "q28", "question": "Which specific international cryptocurrency standard is mandated for all cross-border financial settlements under Schedule 11?"},
+  {"id": "q29", "question": "Which document has stricter data breach notification timelines - NDPA 2023 or NDPR 2019? If they differ, what are the specific timeframes in each?"},
+  {"id": "q30", "question": "How many data protection officers must a company with 500 employees appoint?"},
+  {"id": "q31", "question": "How does the definition of 'data controller' differ between NDPA 2023 and NDPR 2019?"},
+  {"id": "q32", "question": "Compare the breach notification timelines under NDPA 2023 vs NDPR 2019."},
+  {"id": "q33", "question": "What is the purpose of the NDPR Implementation Framework 2020?"},
+  {"id": "q34", "question": "What are the penalties for data breach under NDPR 2019?"},
+  {"id": "q35", "question": "What is the definition of 'personal data' under the NDPR 2019?"}
+]

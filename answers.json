@@ -1,0 +1,134 @@
+[
+  {
+    "id": "q1",
+    "answer": "The penalty for data breach is an amount up to N10,000,000 or 2% of its annual gross revenue in the preceding financial year, depending on the importance of the data controller or data processor.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpa-2023",
+        "page": 32,
+        "quote": "ordering the data controller or data processor to pay a penalty or remedial fee."
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "answer": "Personal data means any information relating to an identified or identifiable natural person (\u2018Data Subject\u2019); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person; It can be anything from a name, address, a photo, an email address, bank details, posts on social networking websites, medical information, and other unique identifier such as but not limited to MAC address, IP address, IMEI number, IMSI number, SIM, Personal Identifiable Information (PII) and others;",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpa-2023",
+        "page": 22,
+        "quote": "categories of personal data concerned, (iii) the recipients or categories of recipient to whom the personal data have been or will be disclosed, particularly recipients in third countries or international organisations, (iv) where possible, the period for which the personal data will be stored, or, if not possible, the criteria used to determine that period, (v) the existence of the right to request from the data controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject or to object to such processing,"
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q4",
+    "answer": "I don't know",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q5",
+    "answer": "Data subjects entitled to enjoy data subject rights under Article 1(4) are those who are (i) children, (ii) persons with disabilities, (iii) elderly persons, and (iv) persons with HIV/AIDS.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "gaid-2025",
+        "page": 94,
+        "quote": "Additional Applicable Laws List any other relevant data protection laws or regulations that apply to the transfer, such as the ECOWAS Supplementary Act, African Union Convention, or the GDPR (if applicable)."
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "answer": "Examples of material contexts of data processing that fall under the Exclusive Legislative List of the 1999 Constitution include: Information and data on population for the purpose of facilitating economic and development planning, Immigration into and emigration from Nigeria, Implementation of treaties, Fingerprints identification and criminal records, Aviation, including airports, safety of aircraft and carriage of passengers and goods by air, Bankruptcy and insolvency, Banking, bills of exchange and promissory notes, Borrowing of moneys within or outside Nigeria for the purposes of the Federation or of any State, Census, including the establishment and maintenance of machinery for continuous and universal registration of births and deaths throughout Nigeria, Citizenship, naturalisation and aliens, Control of capital issues, Copyright, and Data sovereignty.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "gaid-2025",
+        "page": 8,
+        "quote": "i. In this circumstance, the Commission may seek mutual legal assistance from the relevant authorities in the country where such citizen is resident in order to safeguard his or her privacy right as may be recognised under International Law; and"
+      }
+    ]
+  },
+  {
+    "id": "q28",
+    "answer": "Secure Sockets Layer/Transport Layer Security (SSL/TLS)",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "gaid-2025",
+        "page": 8,
+        "quote": "We will always hold your information securely. To prevent unauthorised access to your information, we have implemented strong controls and security safeguards at the technical and operational levels. Our website uses Secure Sockets Layer/Transport Layer Security (SSL/TLS) to ensure secure transmission of your Personal Data."
+      }
+    ]
+  },
+  {
+    "id": "q29",
+    "answer": "NDPR 2019 has stricter data breach notification timelines, requiring notification within 72 hours of becoming aware of a breach. NDPA 2023 does not have a specific timeline for data breach notification.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpr-if-2020",
+        "page": 33,
+        "quote": "Article 33: Data Breach Notification (1) The NDP Act under Section 40(2) provides that \u201ca data controller shall, within 72 hours of becoming aware of a breach which is likely to result in a risk to the rights and freedoms of individuals, notify the Commission of the breach and, where feasible, describe the nature of the personal data breach including the categories and approximate numbers of data subjects and personal data records concerned.\u201d"
+      }
+    ]
+  },
+  {
+    "id": "q30",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q31",
+    "answer": "I don't know",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q32",
+    "answer": "abstained",
+    "abstained": true,
+    "citations": []
+  },
+  {
+    "id": "q33",
+    "answer": "The purpose of the NDPR Implementation Framework 2020 is to promote voluntary compliance with the Nigeria Data Protection Regulation (NDPR) 2019 by providing a guide to assist data controllers and data administrators/processors understand the controls and measures they need to introduce into their operations to comply with the NDPR.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpr-if-2020",
+        "page": 1,
+        "quote": "NIGERIA DATA PROTECTION REGULATION 2019: IMPLEMENTATION FRAMEWORK NOVEMBER, 2020"
+      }
+    ]
+  },
+  {
+    "id": "q34",
+    "answer": "The penalties for data breach under NDPR 2019 include ordering the data controller or data processor to account for the profits realised from the violation or to pay a penalty or remedial fee, with a maximum amount of N10,000,000 or 2% of its annual gross revenue in the preceding financial year.",
+    "abstained": false,
+    "citations": [
+      {
+        "doc_id": "ndpr-2019",
+        "page": 49,
+        "quote": "ordering the data controller or data processor to account for the profits realised from the violation or to pay a penalty or remedial fee, with a maximum amount of N10,000,000 or 2% of its annual gross revenue in the preceding financial year."
+      }
+    ]
+  },
+  {
+    "id": "q35",
+    "answer": "I don't know",
+    "abstained": true,
+    "citations": []
+  }
+]
